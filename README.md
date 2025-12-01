@@ -5,8 +5,8 @@
 **Date:** October 30, 2025  
 
 **Contributors:**  
-- Ellis Lee (ellee33@illinois.edu)  
-- Sahana Rajagopalan (sahana-email@illinois.edu)  
+- Ellis Lee 
+- Sahana Rajagopalan 
 
 ---
 
