@@ -20,7 +20,7 @@ ClearText is a browser-based tool concept that rewrites complex web content into
 - People with learning or cognitive disabilities  
 - Users with lower literacy or limited familiarity with technical or medical language  
 
-Plain language is widely recognized as an accessibility strategy that benefits people with cognitive disabilities, low literacy, and those reading in a non-native language (Harvard University Information Technology, n.d.; Pulrang, 2020; University of Michigan Accessibility, n.d.). When online resources—especially health, legal, and government information—are written in dense, technical language, users may not understand essential information even when they can physically access the page (Ayre et al., 2024; Kauchak & Leroy, 2016).
+Plain language is widely recognized as an accessibility strategy that benefits people with cognitive disabilities, low literacy, and those reading in a non-native language (Harvard University Information Technology, n.d.; Pulrang, 2020; University of Michigan Accessibility, n.d.). When online resources especially: health, legal, and government information are written in dense, technical language, users may not understand essential information even when they can physically access the page (Ayre et al., 2024; Kauchak & Leroy, 2016).
 
 **ClearText aims to:**
 
