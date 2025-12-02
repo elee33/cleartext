@@ -1,7 +1,9 @@
 # ClearText: Making the Web Understandable for Everyone
 
 **Course:** IS 308 – Releasing Inclusive Technology 
+
 **Instructor:** Travis Wagner  
+
 **Date:** October 30, 2025  
 
 **Contributors**  
