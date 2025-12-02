@@ -217,22 +217,22 @@ This process aligns with recommendations to involve people with cognitive and le
 
 ## 10. References
 
-Ayre, J., Bonner, C., Muscat, D. M., McCaffery, K. J., Cvejic, E., Maher, L., Irwin, A., & Jansen, J. (2024). Online text editor to improve the quality of health information: Randomized clinical trial. *JAMA Network Open, 7*(10), e2437955.
+Ayre, J., Bonner, C., Muscat, D. M., Cvejic, E., Mac, O., Mouwad, D., Shepherd, H. L., Aslani, P., Dunn, A. G., & McCaffery, K. J. (2024). Online plain language tool and health information quality: A randomized clinical trial. *JAMA Network Open, 7*(10), e2437955. https://doi.org/10.1001/jamanetworkopen.2024.37955  
 
-Cripwell, L., Legrand, J., & Gardent, C. (2024). Evaluating document simplification: On the importance of separately assessing simplicity and meaning preservation. In *Proceedings of the 3rd Workshop on Tools and Resources for People with Reading Difficulties (READI)*.
+Cripwell, L., Legrand, J., & Gardent, C. (2024). Evaluating document simplification: On the importance of separately assessing simplicity and meaning preservation. In *Proceedings of the 3rd Workshop on Tools and Resources for People with Reading Difficulties (READI)*. https://arxiv.org/abs/2404.03278  
 
-Harvard University Information Technology. (n.d.). *Use plain language*. https://accessibility.huit.harvard.edu
+Harvard University Information Technology. (n.d.). *Use plain language*. Digital Accessibility. https://accessibility.huit.harvard.edu/use-plain-language  
 
-Huang, H.-C., Chern, C.-L., & Lin, C.-C. (2009). EFL learners’ use of online reading strategies and comprehension of texts: An exploratory study. *Computers & Education, 52*(1), 13–26.
+Huang, H.-C., Chern, C.-L., & Lin, C.-C. (2009). EFL learners’ use of online reading strategies and comprehension of texts: An exploratory study. *Computers & Education, 52*(1), 13–26. https://doi.org/10.1016/j.compedu.2008.06.003  
 
-Kauchak, D., & Leroy, G. (2016). Moving beyond readability metrics for health-related text simplification. *IT Professional, 18*(3), 43–51.
+Kauchak, D., & Leroy, G. (2016). Moving beyond readability metrics for health-related text simplification. *IT Professional, 18*(3), 45–51. https://doi.org/10.1109/MITP.2016.50  
 
-Moreno, L., Martínez, P., Alarcón, R., & Petrie, H. (2024). Designing user interfaces for content simplification aimed at people with cognitive impairments: The Easier Web system. *Universal Access in the Information Society*. Advance online publication.
+Moreno, L., Petrie, H., Martínez, P., & Alarcón, R. (2024). Designing user interfaces for content simplification aimed at people with cognitive impairments: The Easier Web system. *Universal Access in the Information Society, 23*(1), 99–117. https://doi.org/10.1007/s10209-023-00986-z  
 
-Pulrang, A. (2020, October 22). Plain language writing—An essential part of accessibility. *Forbes*. https://www.forbes.com
+Pulrang, A. (2020, October 22). Plain language writing—An essential part of accessibility. *Forbes*. https://www.forbes.com/sites/andrewpulrang/2020/10/22/plain-language-writing---an-essential-part-of-accessibility/  
 
-University of Michigan Accessibility. (n.d.). *Writing in plain language*. https://accessibility.umich.edu
+University of Michigan Accessibility. (n.d.). *Writing in plain language*. https://accessibility.umich.edu/how-to/web-content-sites-apps/writing-in-plain-language  
 
-W3C. (2023). *Web Content Accessibility Guidelines (WCAG) 2.2*. World Wide Web Consortium. https://www.w3.org/TR/WCAG22
+World Wide Web Consortium. (2023). *Web Content Accessibility Guidelines (WCAG) 2.2*. https://www.w3.org/TR/WCAG22/  
 
-W3C Web Accessibility Initiative (WAI). (2021). *Making content usable for people with cognitive and learning disabilities*. World Wide Web Consortium. https://www.w3.org/WAI/coga
+World Wide Web Consortium Web Accessibility Initiative. (2021). *Making content usable for people with cognitive and learning disabilities*. https://www.w3.org/TR/coga-usable/  
